@@ -1,0 +1,4 @@
+./test/*
+test
+__pycache__/
+migrations/
